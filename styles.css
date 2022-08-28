@@ -4,7 +4,7 @@ body{
     border: 0;
 }
 
-#content {
+.content {
   display: grid;
   width: 100vw;
   grid-template-columns: repeat(2, 1fr);
@@ -32,7 +32,7 @@ img {
 input {
   width: 80%;
   padding: 12px 20px;
-  margin: 3px;
+  margin: 15px;
   border-radius: 20px;
   box-sizing: border-box;
 }
